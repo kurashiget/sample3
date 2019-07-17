@@ -24,3 +24,7 @@ int sum1(int a, int b)
 	return a + a + b;
 }
 
+int sum5(int a, int b)
+{
+	return a - b;
+}
