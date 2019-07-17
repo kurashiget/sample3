@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-// miki miki miki
+// miki miki miki miki
 int main(void)
 {
     int a = 1;
